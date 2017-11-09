@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RollDice</string>
+    <string name="button_text">Kasta</string>
+    <string name="roll_dice_logo">Roll dice Logo</string>
+    <string name="left_dice">Left dice</string>
+    <string name="right_dice">right dice</string>
+    <string name="roll_the_dice">roll the dice</string>
+</resources>
